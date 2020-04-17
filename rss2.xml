@@ -9,8 +9,29 @@
     <atom:link href="/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description></description>
-    <pubDate>Fri, 17 Apr 2020 17:03:44 GMT</pubDate>
+    <pubDate>Fri, 17 Apr 2020 17:39:46 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>Github page 블로그 시작 (hexo icarus 셋팅)</title>
+      <link>https://datahack.dev/2020/04/18/etc/hexo-blog/</link>
+      <guid>https://datahack.dev/2020/04/18/etc/hexo-blog/</guid>
+      <pubDate>Fri, 17 Apr 2020 17:15:59 GMT</pubDate>
+      <description>
+      
+        
+        
+          &lt;p&gt;테스트 테스트&lt;/p&gt;
+
+        
+      
+      </description>
+      
+      
+      <content:encoded><![CDATA[<p>테스트 테스트</p>]]></content:encoded>
+      
+      <comments>https://datahack.dev/2020/04/18/etc/hexo-blog/#disqus_thread</comments>
+    </item>
     
     <item>
       <title>이미지 포함한 포스트 테스트2</title>
