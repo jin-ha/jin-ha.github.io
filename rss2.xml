@@ -9,7 +9,7 @@
     <atom:link href="/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description></description>
-    <pubDate>Fri, 17 Apr 2020 16:26:40 GMT</pubDate>
+    <pubDate>Fri, 17 Apr 2020 17:03:44 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
@@ -20,12 +20,11 @@
       <description>
       
         &lt;p&gt;이미지미지&lt;/p&gt;
-/2020/04/07/tech/images_2/unnamed.jpg
       
       </description>
       
       
-      <content:encoded><![CDATA[<p>이미지미지</p>/2020/04/07/tech/images_2/unnamed.jpg<a id="more"></a><img src="/2020/04/07/tech/images_2/unnamed.jpg" class="" title="spaced title"><p><img src="/2020/04/07/tech/images_2/unnamed.jpg" alt="test"><br>asdfasdf</p><h1 id="기술"><a href="#기술" class="headerlink" title="기술"></a>기술</h1><p>ㅁㄴㅇㄹ</p><h2 id="기술-보안"><a href="#기술-보안" class="headerlink" title="기술-보안"></a>기술-보안</h2><p>ㅁㄴㅇㄹㅁㄴㅇㄹ</p><h1 id="기타"><a href="#기타" class="headerlink" title="기타"></a>기타</h1><p>ㅁㄴㅇㄹㅁㄴㅇㄹㅇㄴㅁㄹㅁㅇㄴㄹ</p>]]></content:encoded>
+      <content:encoded><![CDATA[<p>이미지미지</p><a id="more"></a><p>asdfasdf</p><h1 id="기술"><a href="#기술" class="headerlink" title="기술"></a>기술</h1><p>ㅁㄴㅇㄹ</p><h2 id="기술-보안"><a href="#기술-보안" class="headerlink" title="기술-보안"></a>기술-보안</h2><p>ㅁㄴㅇㄹㅁㄴㅇㄹ</p><h1 id="기타"><a href="#기타" class="headerlink" title="기타"></a>기타</h1><p>ㅁㄴㅇㄹㅁㄴㅇㄹㅇㄴㅁㄹㅁㅇㄴㄹ</p>]]></content:encoded>
       
       <comments>https://datahack.dev/2020/04/07/tech/images_2/#disqus_thread</comments>
     </item>
