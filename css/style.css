@@ -10756,9 +10756,12 @@ article.article .content a {
 }
 article.article .content h1 {
   font-size: 1.95em;
+  font-weight: 600;
+  margin-top: 50px;
 }
 article.article .content h2 {
   font-size: 1.5em;
+  margin-top: 35px;
 }
 article.article .content h3 {
   font-size: 1.25em;
