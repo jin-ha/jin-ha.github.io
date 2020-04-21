@@ -9,7 +9,7 @@
     <atom:link href="/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>datahack의 블로그</description>
-    <pubDate>Sun, 19 Apr 2020 13:14:15 GMT</pubDate>
+    <pubDate>Tue, 21 Apr 2020 10:47:33 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
@@ -19,12 +19,12 @@
       <pubDate>Sun, 19 Apr 2020 12:23:46 GMT</pubDate>
       <description>
       
-        &lt;p&gt;데이터분석을 위해 셋팅해둔 docker 이미지(jupyter)를 오랜만에 다시 build 하니 tensorflow 패키지 다운로드가 너무 오래 걸려서 build가 timeout이 되었다.&lt;br&gt;Pypi(pip)의 mirror 설정으로 변경 후 다시 실행하니 바로 해결!&lt;/p&gt;
+        &lt;p&gt;데이터분석 공부를 위해 셋팅해둔 docker 이미지(jupyter)를 오랜만에 다시 build 하니 tensorflow 패키지 다운로드가 너무 오래 걸려서 build가 timeout이 되었다.&lt;br&gt;Pypi(pip)의 mirror 설정으로 변경 후 다시 실행하니 바로 해결!&lt;/p&gt;
       
       </description>
       
       
-      <content:encoded><![CDATA[<p>데이터분석을 위해 셋팅해둔 docker 이미지(jupyter)를 오랜만에 다시 build 하니 tensorflow 패키지 다운로드가 너무 오래 걸려서 build가 timeout이 되었다.<br>Pypi(pip)의 mirror 설정으로 변경 후 다시 실행하니 바로 해결!</p><a id="more"></a><p>mirror 서버 설정은 아래와 같이 <code>~/.pip/pip.conf</code>을 국내 서버로 설정</p><figure class="highlight js"><figcaption><span>~/.pip/pip.conf</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">[global]</span><br><span class="line">index-url=http:<span class="comment">//ftp.daumkakao.com/pypi/simple</span></span><br><span class="line">trusted-host=ftp.daumkakao.com</span><br></pre></td></tr></table></figure><p>Dockerfile의 경우 아래와 같이 <code>.pip</code> 디렉토리 생성후 동일한 설정</p><figure class="highlight dockerfile"><figcaption><span>Dockerfile</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">RUN</span><span class="bash"> mkdir ~/.pip</span></span><br><span class="line"><span class="keyword">RUN</span><span class="bash"> <span class="built_in">printf</span> <span class="string">"[global]\nindex-url=http://ftp.daumkakao.com/pypi/simple\ntrusted-host=ftp.daumkakao.com"</span> &gt; ~/.pip/pip.conf</span></span><br></pre></td></tr></table></figure>]]></content:encoded>
+      <content:encoded><![CDATA[<p>데이터분석 공부를 위해 셋팅해둔 docker 이미지(jupyter)를 오랜만에 다시 build 하니 tensorflow 패키지 다운로드가 너무 오래 걸려서 build가 timeout이 되었다.<br>Pypi(pip)의 mirror 설정으로 변경 후 다시 실행하니 바로 해결!</p><a id="more"></a><p>mirror 서버 설정은 아래와 같이 <code>~/.pip/pip.conf</code>을 국내 서버로 설정</p><figure class="highlight js"><figcaption><span>~/.pip/pip.conf</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">[global]</span><br><span class="line">index-url=http:<span class="comment">//ftp.daumkakao.com/pypi/simple</span></span><br><span class="line">trusted-host=ftp.daumkakao.com</span><br></pre></td></tr></table></figure><p>Dockerfile의 경우 아래와 같이 <code>.pip</code> 디렉토리 생성후 동일한 설정</p><figure class="highlight dockerfile"><figcaption><span>Dockerfile</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">RUN</span><span class="bash"> mkdir ~/.pip</span></span><br><span class="line"><span class="keyword">RUN</span><span class="bash"> <span class="built_in">printf</span> <span class="string">"[global]\nindex-url=http://ftp.daumkakao.com/pypi/simple\ntrusted-host=ftp.daumkakao.com"</span> &gt; ~/.pip/pip.conf</span></span><br></pre></td></tr></table></figure>]]></content:encoded>
       
       <comments>https://datahack.dev/2020/04/19/etc/pip-mirror/#disqus_thread</comments>
     </item>
