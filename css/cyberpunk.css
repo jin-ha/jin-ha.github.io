@@ -10871,7 +10871,7 @@ article.article .content blockquote footer strong + cite {
   }
 }
 .navbar-logo img {
-  max-height: 2.25rem;
+  max-height: 1.95rem;
 }
 @media screen and (max-width: 768px) {
   footer.footer .level-start {
@@ -10889,7 +10889,7 @@ footer.footer .level-end .field {
   }
 }
 .footer-logo img {
-  max-height: 2.25rem;
+  max-height: 1.95rem;
 }
 .pagination .pagination-link a,
 .pagination .pagination-ellipsis a,
