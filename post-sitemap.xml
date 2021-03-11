@@ -8,8 +8,16 @@
     </url>
 
     <url>
+        <loc>https://datahack.dev/2021/03/11/data/elastic/logstash-java-filter-plugin/</loc>
+        <lastmod>2021-03-11T14:48:16.878Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://datahack.dev/2020/04/19/etc/pip-mirror/</loc>
-        <lastmod>2020-04-21T15:47:28.771Z</lastmod>
+        <lastmod>2020-07-22T01:33:31.341Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -17,7 +25,7 @@
 
     <url>
         <loc>https://datahack.dev/2020/04/18/etc/hexo-blog/</loc>
-        <lastmod>2020-04-21T15:46:23.385Z</lastmod>
+        <lastmod>2020-07-22T01:33:26.068Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
