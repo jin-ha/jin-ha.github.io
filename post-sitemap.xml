@@ -8,6 +8,30 @@
     </url>
 
     <url>
+        <loc>https://datahack.dev/2021/04/13/data/splunk/custom-search-command-3/</loc>
+        <lastmod>2021-04-12T15:19:34.673Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://datahack.dev/2021/04/13/data/splunk/custom-search-command-1/</loc>
+        <lastmod>2021-04-12T15:12:59.229Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://datahack.dev/2021/04/13/data/splunk/custom-search-command-2/</loc>
+        <lastmod>2021-04-12T15:06:39.026Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://datahack.dev/2020/04/18/etc/hexo-blog/</loc>
         <lastmod>2021-03-12T09:59:08.222Z</lastmod>
         <changefreq>weekly</changefreq>
